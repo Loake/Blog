@@ -1,18 +1,16 @@
 # Pycharm下载安装与激活教程
 ## 目录
 - [Pycharm下载安装与激活教程](#pycharm下载安装与激活教程)
-    - [确认你是否安装了Python](#确认你是否安装了python)
-      - [Python官网下载地址](https://www.python.org/downloads/)
-      - [点我下载Python 3.12.3安装包](https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe)
+  - [目录](#目录)
+      - [确认你是否安装了Python](#确认你是否安装了python)
 - [Pycharm安装与激活](#pycharm安装与激活)
-  - [Pycharm官网下载地址](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 
 #### 确认你是否安装了Python
 首先，确认你的电脑已经安装了Python
 按下键盘上 `Win+R` 打开运行框，输入 `cmd` 打开命令行窗口，输入 `python` 打开Python解释器，如果出现类似 `Python 3.x.x (default, Sep 18 2019, 15:08:59)` 的提示，则说明Python已经安装成功。
-![运行](pic/winr.png)
-![Python](pic/cmd.png)
+![运行](https://raw.githubusercontent.com/Loake/Blog/main/pic/winr.png)
+![Python](https://raw.githubusercontent.com/Loake/Blog/main/pic/cmd.png)
 如图所示，则说明Python已经安装成功。
 
 [Python官网下载地址](https://www.python.org/downloads/)

@@ -1,12 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>梅狸猫的博客</title><link>https://Loake.github.io/Blog</link><description>分享资源</description><copyright>梅狸猫的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/72137328?v=4</url><title>avatar</title><link>https://Loake.github.io/Blog</link></image><lastBuildDate>Fri, 28 Jun 2024 16:32:15 +0000</lastBuildDate><managingEditor>梅狸猫的博客</managingEditor><ttl>60</ttl><webMaster>梅狸猫的博客</webMaster><item><title>如何下载Pycharm并激活呢？</title><link>https://Loake.github.io/Blog/post/ru-he-xia-zai-Pycharm-bing-ji-huo-ni-%EF%BC%9F.html</link><description># Pycharm下载安装与激活教程&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>梅狸猫的博客</title><link>https://Loake.github.io/Blog</link><description>分享资源</description><copyright>梅狸猫的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/72137328?v=4</url><title>avatar</title><link>https://Loake.github.io/Blog</link></image><lastBuildDate>Sat, 29 Jun 2024 06:56:14 +0000</lastBuildDate><managingEditor>梅狸猫的博客</managingEditor><ttl>60</ttl><webMaster>梅狸猫的博客</webMaster><item><title>如何下载Pycharm并激活呢？</title><link>https://Loake.github.io/Blog/post/ru-he-xia-zai-Pycharm-bing-ji-huo-ni-%EF%BC%9F.html</link><description># Pycharm下载安装与激活教程&#13;
 ## 目录&#13;
 - [Pycharm下载安装与激活教程](#pycharm下载安装与激活教程)&#13;
-    - [确认你是否安装了Python](#确认你是否安装了python)&#13;
-      - [Python官网下载地址](https://www.python.org/downloads/)&#13;
-      - [点我下载Python 3.12.3安装包](https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe)&#13;
+  - [目录](#目录)&#13;
+      - [确认你是否安装了Python](#确认你是否安装了python)&#13;
 - [Pycharm安装与激活](#pycharm安装与激活)&#13;
-  - [Pycharm官网下载地址](https://www.jetbrains.com/pycharm/download/#section=windows)&#13;
 &#13;
 &#13;
 #### 确认你是否安装了Python&#13;
