@@ -11,8 +11,8 @@
 #### 确认你是否安装了Python
 首先，确认你的电脑已经安装了Python
 按下键盘上 `Win+R` 打开运行框，输入 `cmd` 打开命令行窗口，输入 `python` 打开Python解释器，如果出现类似 `Python 3.x.x (default, Sep 18 2019, 15:08:59)` 的提示，则说明Python已经安装成功。
-![运行](https://github.com/Loake/Blog/pic/winr.png)
-![Python](https://github.com/Loake/Blog/pic/cmd.png)
+![运行](pic/winr.png)
+![Python](pic/cmd.png)
 如图所示，则说明Python已经安装成功。
 
 [Python官网下载地址](https://www.python.org/downloads/)
@@ -28,19 +28,18 @@
 # Pycharm安装与激活
 [Pycharm官网下载地址](https://www.jetbrains.com/pycharm/download/#section=windows)
 双击打开文件，点击下一步<br>
-![Pycharm安装](https://github.com/Loake/Blog/pic/Pycham/step1.png)
+![Pycharm安装](/pic/Pycham/step1.png)
 选择安装路径，点击下一步<br>
-![Pycharm安装](https://github.com/Loake/Blog/pic/Pycham/step2.png)
+![Pycharm安装](/pic/Pycham/step2.png)
 更改你的喜好设置<br>
-![Pycharm安装](https://github.com/Loake/Blog/pic/Pycham/step3.png)
+![Pycharm安装](/pic/Pycham/step3.png)
 点击下一步<br>
-![Pycharm安装](https://github.com/Loake/Blog/pic/Pycham/step4.png)
+![Pycharm安装](/pic/Pycham/step4.png)
 等待进度条走完……<br>
-![Pycharm安装](https://github.com/Loake/Blog/pic/Pycham/step5.png)
+![Pycharm安装](/pic/Pycham/step5.png)
 恭喜！现在你已经安装完成了Pycharm<br>
-![Pycharm安装](https://github.com/Loake/Blog/pic/Pycham/done.png)
+![Pycharm安装](/pic/Pycham/done.png)
 现在，你可以看到桌面上出现了一个Pycharm的图标，点击图标打开Pycharm<br>
-![Pycharm安装](https://github.com/Loake/Blog/pic/Pycham/icon.png)
-![Pycharm安装](https://github.com/Loake/Blog/pic/Pycham/welcome.png)
-
+![Pycharm安装](/pic/Pycham/icon.png)
+![Pycharm安装](/pic/Pycham/welcome.png)
 
