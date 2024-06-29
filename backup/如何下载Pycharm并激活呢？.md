@@ -28,19 +28,19 @@
 # Pycharm安装与激活
 [Pycharm官网下载地址](https://www.jetbrains.com/pycharm/download/#section=windows)
 双击打开文件，点击下一步<br>
-![Pycharm安装]([/pic/Pycham/](https://github.com/Loake/Blog/blob/main/pic/Pycham/)step1.png)
+![Pycharm安装](https://raw.githubusercontent.com/Loake/Blog/main/pic/Pycham/step1.png)
 选择安装路径，点击下一步<br>
-![Pycharm安装]([/pic/Pycham/](https://github.com/Loake/Blog/blob/main/pic/Pycham/)step2.png)
+![Pycharm安装](https://raw.githubusercontent.com/Loake/Blog/main/pic/Pycham/step2.png)
 更改你的喜好设置<br>
-![Pycharm安装]([/pic/Pycham/](https://github.com/Loake/Blog/blob/main/pic/Pycham/)step3.png)
+![Pycharm安装](https://raw.githubusercontent.com/Loake/Blog/main/pic/Pycham/step3.png)
 点击下一步<br>
-![Pycharm安装]([/pic/Pycham/](https://github.com/Loake/Blog/blob/main/pic/Pycham/)step4.png)
+![Pycharm安装](https://raw.githubusercontent.com/Loake/Blog/main/pic/Pycham/step4.png)
 等待进度条走完……<br>
-![Pycharm安装]([/pic/Pycham/](https://github.com/Loake/Blog/blob/main/pic/Pycham/)step5.png)
+![Pycharm安装](https://raw.githubusercontent.com/Loake/Blog/main/pic/Pycham/step5.png)
 恭喜！现在你已经安装完成了Pycharm<br>
-![Pycharm安装]([/pic/Pycham/](https://github.com/Loake/Blog/blob/main/pic/Pycham/)done.png)
+![Pycharm安装](https://raw.githubusercontent.com/Loake/Blog/main/pic/Pycham/done.png)
 现在，你可以看到桌面上出现了一个Pycharm的图标，点击图标打开Pycharm<br>
-![Pycharm安装]([/pic/Pycham/](https://github.com/Loake/Blog/blob/main/pic/Pycham/)icon.png)
-![Pycharm安装]([/pic/Pycham/](https://github.com/Loake/Blog/blob/main/pic/Pycham/)welcome.png)
+![Pycharm安装](https://raw.githubusercontent.com/Loake/Blog/main/pic/Pycham/icon.png)
+![Pycharm安装](https://raw.githubusercontent.com/Loake/Blog/main/pic/Pycham/welcome.png)
 
 
