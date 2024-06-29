@@ -13,10 +13,10 @@
 ![Python](https://raw.githubusercontent.com/Loake/Blog/main/pic/cmd.png)
 如图所示，则说明Python已经安装成功。
 
-[Python官网下载地址](https://www.python.org/downloads/)
+[Python官网下载地址](https://www.python.org/downloads/)[^target="_blank^"]
 下载完毕后，双击安装文件，按照提示一步步安装即可。
 
-[点我下载Python 3.12.3安装包](https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe)
+[点我下载Python 3.12.3安装包](https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe)[^target="_blank^"]
 安装完成后，打开命令行窗口，输入 `pip` 验证是否安装成功。
 然后，我们需要安装Pycharm。
 
@@ -24,7 +24,7 @@
 <hr>
 
 # Pycharm安装与激活
-[Pycharm官网下载地址](https://www.jetbrains.com/pycharm/download/#section=windows)
+[Pycharm官网下载地址](https://www.jetbrains.com/pycharm/download/#section=windows)[^target="_blank^"]
 双击打开文件，点击下一步<br>
 ![Pycharm安装](https://raw.githubusercontent.com/Loake/Blog/main/pic/Pycham/step1.png)
 选择安装路径，点击下一步<br>
